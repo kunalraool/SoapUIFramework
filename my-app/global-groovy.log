@@ -1,0 +1,11 @@
+2021-02-24 13:17:34,402 INFO  [log] username is ${username and password property#username}
+2021-02-24 13:17:34,449 INFO  [log] Niharika
+2021-02-24 13:17:34,465 INFO  [log] Niharika can purchase
+2021-02-24 13:17:34,883 INFO  [log] <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="http://expertz.me/data/eCommerce/ShoppingService/1.0">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <ns:sessionId>7357206999657586</ns:sessionId>
+   </soapenv:Body>
+</soapenv:Envelope>
+2021-02-24 13:17:34,894 INFO  [log] 7357206999657586
+2021-02-24 13:17:35,167 INFO  [log] 6437654603402023
